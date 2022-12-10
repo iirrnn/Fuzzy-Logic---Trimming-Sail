@@ -1,6 +1,7 @@
 # Fuzzy Logic - Trimming Sail
 
 En este proyecto, se quiere controlar el trimado de la vela dada la fuerza del viento y el rumbo del velero. 
+
 Las reglas son las siguientes:
 - **Si** el rumbo es de *ceñida* con un viento *ligero* **entonces** escota *largada*.
 -	**Si** se tiene viento *moderado* o *fuerte* con navegación de *ceñida* **entonces** escota *cazada al máximo*.
